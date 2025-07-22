@@ -36,6 +36,6 @@ Busco combinar mi experiencia previa en gestión con herramientas modernas de an
 ### 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/axelschemberg)
-- 📁 [Portfolio de proyectos](https://github.com/axelschemberg/portfolio-data-analytics)
+- 📁 [Portfolio de proyectos]((https://github.com/AxelSchemberg/portfolio))
 
 Gracias por pasar por acá 🙌
