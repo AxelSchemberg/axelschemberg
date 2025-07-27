@@ -12,8 +12,8 @@ Siempre me gustó entender los números más allá de registrarlos. Me interesa 
 Por eso me estoy formando como **Data Analyst** en Coderhouse, especializándome en:
 
 - Excel avanzado (dashboards, automatización, macros)
-- Tableau (visualizaciones interactivas)
-- Power BI (en formación)
+- Tableau (visualizaciones interactivas) en curso
+- Power BI (en formación) proximamente
 
 ---
 
